@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rip-list
 - 👀 I’m interested in language lerning
-- 🌱 I’m currently learning rust python 
+- 🌱 I’m currently learning rust python dart/flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
